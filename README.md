@@ -44,9 +44,13 @@ When - depends.
 
 
 KEY - 
+
 1. Each time there will only have one assigner at most. And the timing cost will count to the assigner. So it will be very clear for the time distribution. 
+
 2. KPI - everyone can have a clear list of his tasks, depends on the task level and his level, KPI will become quantitative.   Of course you may be promoted or reduced according the task status. 
+
 3. Ideally - one can not go and pick the task before he finishes his current task, but based on the task priority, this can be adjusted. 
+
 4. Accuracy -  There are many estimate in this task working sequence, thus the accuracy of the estimate time compare to cost will also be a measure for the people make them.
  
 
